@@ -1,8 +1,11 @@
 # Seasonal Adjustment with JDemetra+
-Welcome to the fascinating world of seasonal adjustment. **Please note that this site is still under construction.**
+Welcome to the fascinating world of seasonal adjustment with JDemetra+ (JD+). **Please note that this site is still under construction.**
 
 ## Contents
-In this repository, you will find course material for Bundesbank trainings on seasonal adjustment. These trainings are hosted by the Centre for International Central Bank Dialogue (CIC) and cover the annual introductory seminar `Elementary seasonal adjustment of economic data with JDemetra+` (Level I) and the biennial advanced seminar `Advanced topics in seasonal adjustment` (Level II). The folder structure is as follows:
+This repository is basically a collection of course material used in various Bundesbank trainings on seasonal adjustment. These trainings are hosted by the [Centre for International Central Bank Dialogue](https://www.bundesbank.de/en/bundesbank/international-central-bank-dialogue) (CIC) and cover the annual introductory seminar `Elementary seasonal adjustment of economic data with JDemetra+` (Level I) and the biennial advanced seminar `Advanced topics in seasonal adjustment` (Level II). The folder structure is as follows:
 
 - `Year Level I/II`: PDF presentation slides and additional files, such as data files provided by the participants
-- `Literature`: selected literature on seasonal adjustment topics
+- `Literature`: selected literature on seasonal adjustment topics covered in at least one of the two seminars
+
+## Questions or comments?
+Do you have a question or want to leave a comment? No problem, just send an e-mail to the [Bundesbank's JD+ development team](jdemetra@bundesbank.de) or create an issue directly on GitHub.
