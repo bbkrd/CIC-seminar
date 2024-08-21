@@ -8,4 +8,4 @@ This repository is basically a collection of course material used in various Bun
 - `Literature`: selected literature on seasonal adjustment topics covered in at least one of the two seminars
 
 ## Questions or comments?
-Do you have a question or want to leave a comment? No problem, just send an e-mail to the [Bundesbank's JD+ development team](jdemetra@bundesbank.de) or create an issue directly on GitHub.
+Do you have a question or want to leave a comment? No problem, just send an e-mail to the [Bundesbank's JD+ development team](mailto:jdemetra@bundesbank.de) or create an issue directly on GitHub.
