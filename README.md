@@ -7,5 +7,5 @@ This repository is basically a collection of course material used in various Bun
 - `Year Level I/II`: PDF presentation slides and additional files, such as data files provided by the participants
 - `Literature`: selected literature on seasonal adjustment topics covered in at least one of the two seminars
 
-## Questions or comments?
+## Contact
 Do you have a question or want to leave a comment? No problem, just send an e-mail to the [Bundesbank's JD+ development team](mailto:jdemetra@bundesbank.de) or create an issue directly on GitHub.
